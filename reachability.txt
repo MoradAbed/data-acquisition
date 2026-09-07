@@ -1,0 +1,5 @@
+Reachability from the GitHub-hosted runner:
+  https://esmis.nal.usda.gov/ -> 200
+  https://www.eia.gov/ -> 200
+  https://ir.eia.gov/ngs/ -> 403
+  https://www.usda.gov/ -> 403

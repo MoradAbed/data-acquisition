@@ -1,0 +1,45 @@
+{
+  "acq_version": "ACQ-1",
+  "source_id": "EIA-NG-REVISIONS",
+  "dataset_id": "INV-EIA-NG",
+  "provenance_class": "primary",
+  "official_source_name": "U.S. Energy Information Administration, Natural Gas Storage revisions and reclassifications record",
+  "official_source_url": "https://ir.eia.gov/ngs/revisions.xls",
+  "transport_and_archive_layer": {
+    "note": "GitHub is transport and archive only, NOT the data source",
+    "repository": "MoradAbed/data-acquisition",
+    "commit": "10e1f0fd55adfdcf49bac73e6b8eed9b64ed1bdc",
+    "run_id": "34132642536",
+    "runner": "Linux"
+  },
+  "request": {
+    "url": "https://ir.eia.gov/ngs/revisions.xls",
+    "method": "GET",
+    "headers_sent": {
+      "User-Agent": "p12b-acquisition-bridge/1.0 (systematic-trading research; public-domain government data; contact via repository issues)"
+    }
+  },
+  "acquisition_channel": "github_actions_runner",
+  "acquisition_timestamp_utc": "2026-09-07T14:23:19+00:00",
+  "http_status": 200,
+  "content_type": "application/vnd.ms-excel",
+  "content_length_header": "121856",
+  "content_bytes": 121856,
+  "content_sha256": "ee7c703c6d30176d0253b879aa4c8c6dc0178b411c36d73036d89aeff412dd3c",
+  "stored_path": "raw/EIA-NG-REVISIONS.ee7c703c6d30176d.xls",
+  "release": {
+    "reference_date": null,
+    "source_publication_date": null,
+    "source_publication_time": null,
+    "timezone": "America/New_York",
+    "publication_time_evidence": "Rolling file; the ONLY published record of EIA pre-revision estimates (Nov 2015 onward). Required for the natural-gas point-in-time test."
+  },
+  "usable_from_utc": null,
+  "parser": {
+    "script": "scripts/acquire_primary.py",
+    "script_sha256": "d8418e3595cc3e7add93bfa0d86f96ab9f8262278ad0c47fa8fd8d47c76338bb",
+    "version": "P12B-acquire-1.0.0"
+  },
+  "observations": [],
+  "supersedes": null
+}

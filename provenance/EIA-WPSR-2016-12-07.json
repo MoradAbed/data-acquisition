@@ -1,0 +1,45 @@
+{
+  "acq_version": "ACQ-1",
+  "source_id": "EIA-WPSR-2016-12-07",
+  "dataset_id": "INV-EIA-PET",
+  "provenance_class": "primary",
+  "official_source_name": "U.S. Energy Information Administration, Weekly Petroleum Status Report archive",
+  "official_source_url": "https://www.eia.gov/petroleum/supply/weekly/archive/2016/2016_12_07/pdf/wpsrall.pdf",
+  "transport_and_archive_layer": {
+    "note": "GitHub is transport and archive only, NOT the data source",
+    "repository": "MoradAbed/data-acquisition",
+    "commit": "10e1f0fd55adfdcf49bac73e6b8eed9b64ed1bdc",
+    "run_id": "34132642536",
+    "runner": "Linux"
+  },
+  "request": {
+    "url": "https://www.eia.gov/petroleum/supply/weekly/archive/2016/2016_12_07/pdf/wpsrall.pdf",
+    "method": "GET",
+    "headers_sent": {
+      "User-Agent": "p12b-acquisition-bridge/1.0 (systematic-trading research; public-domain government data; contact via repository issues)"
+    }
+  },
+  "acquisition_channel": "github_actions_runner",
+  "acquisition_timestamp_utc": "2026-09-07T14:23:19+00:00",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length_header": "1865293",
+  "content_bytes": 1865293,
+  "content_sha256": "3c19f02771322f4caef89f92a62cf7ba1234af931a847d930c03152e127c3199",
+  "stored_path": "raw/EIA-WPSR-2016-12-07.3c19f02771322f4c.pdf",
+  "release": {
+    "reference_date": "2016-12-02",
+    "source_publication_date": "2016-12-07",
+    "source_publication_time": null,
+    "timezone": "America/New_York",
+    "publication_time_evidence": "MUST be read from the artifact or the EIA published schedule; the 10:30 ET convention is NOT to be assumed"
+  },
+  "usable_from_utc": null,
+  "parser": {
+    "script": "scripts/acquire_primary.py",
+    "script_sha256": "d8418e3595cc3e7add93bfa0d86f96ab9f8262278ad0c47fa8fd8d47c76338bb",
+    "version": "P12B-acquire-1.0.0"
+  },
+  "observations": [],
+  "supersedes": null
+}
