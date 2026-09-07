@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 WORKFLOW_p12b_poc.yml.txt
 Claude outputs/
+WORKFLOW_p12c_vintage.yml.txt

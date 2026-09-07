@@ -1,0 +1,92 @@
+name: P12C USDA 24-month vintage acquisition
+
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "ESMIS index pages to enumerate"
+        required: true
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: p12b-acquisition
+  cancel-in-progress: false
+
+jobs:
+  vintage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: 1. enumerate the ESMIS publication index
+        run: |
+          python3 scripts/enumerate_esmis.py \
+            --pages "${{ github.event.inputs.pages }}" \
+            --require p12_3_sample.json \
+            --out esmis_index.json
+
+      - name: 2. build targets for the 24 seeded vintages
+        run: |
+          python3 scripts/build_vintage_targets.py \
+            --index esmis_index.json \
+            --sample p12_3_sample.json \
+            --out targets_vintage.json
+
+      - name: 3. acquire all 24 from the primary source
+        run: python3 scripts/acquire_primary.py --manifest targets_vintage.json --all
+
+      - name: 4. validate artifacts and provenance
+        run: |
+          set -e
+          n=$(ls raw/USDA-WASDE-20* 2>/dev/null | wc -l)
+          echo "$n WASDE artifacts present"
+          [ "$n" -ge 24 ] || { echo "::error::expected >=24 WASDE artifacts, found $n"; exit 1; }
+          for p in provenance/USDA-WASDE-20*.json; do
+            python3 - "$p" <<'PY'
+          import json,sys
+          r=json.load(open(sys.argv[1]))
+          assert r["provenance_class"]=="primary", sys.argv[1]
+          assert len(r["content_sha256"])==64, sys.argv[1]
+          assert r["content_bytes"]>20000, sys.argv[1]
+          PY
+          done
+          echo "provenance validated"
+
+      - name: 5. refuse any in-place modification of raw/
+        run: |
+          if git diff --name-only -- raw/ | grep -q .; then
+            echo "::error::an existing raw artifact was modified in place"
+            git diff --name-only -- raw/; exit 1
+          fi
+          echo "no in-place modification of raw/"
+
+      - name: 6. commit
+        run: |
+          git config user.name  "p12b-acquisition-bot"
+          git config user.email "actions@github.com"
+          git add raw/ provenance/ hashes/ esmis_index.json targets_vintage.json
+          git diff --cached --quiet && { echo "nothing new"; exit 0; }
+          git commit -m "P12C: 24 seeded USDA WASDE vintages from primary source $(date -u +%FT%TZ)"
+          git push
+
+      - name: 7. expose
+        run: |
+          echo "commit: $(git rev-parse HEAD)"
+          cat hashes/USDA-WASDE-20*.sha256
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: p12c-vintage-provenance
+          path: |
+            provenance/
+            hashes/
+            esmis_index.json
+            targets_vintage.json
