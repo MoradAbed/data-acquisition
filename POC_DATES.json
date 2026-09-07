@@ -1,0 +1,18 @@
+{
+  "_comment": "POC target dates FIXED BEFORE EXECUTION, per Phase 12B section F. Neither target had been retrieved when these were written.",
+  "fixed_at_utc": "2026-09-07T14:00:00+00:00",
+  "usda_poc": {
+    "date": "2013-05-10",
+    "selection_rule": "Already present in the P12A seeded 24-month sample (seed 20260907, drawn blind in Phase 12A). Chosen because an independent read of this issue exists from P12A, making it a control with known expected values.",
+    "expected_values_from_p12a": {
+      "source": "WASDE-518 world supply and use tables, United States ending stocks",
+      "unit_stated_by_source": "Million Metric Tons",
+      "corn": {"2011/12": 25.12, "2012/13 Est.": 19.29, "2013/14 Proj.": 50.91},
+      "wheat": {"2011/12": 20.21, "2012/13 Est.": 19.89, "2013/14 Proj.": 18.25}
+    }
+  },
+  "eia_poc": {
+    "date": "2016-12-07",
+    "selection_rule": "Deterministic rule stated before execution: the last regularly-scheduled Wednesday WPSR release on or before the 2016-12-31 research cutoff. No retrieval attempt informed this choice."
+  }
+}

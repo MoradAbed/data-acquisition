@@ -1,0 +1,117 @@
+name: P12B primary-source acquisition POC
+
+# Manual only. This workflow writes immutable research artifacts; it must never
+# fire on an unrelated push.
+on:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "source_id from targets.json, or 'all'"
+        required: true
+        default: "all"
+
+permissions:
+  contents: write        # commit acquired artifacts; nothing else
+
+concurrency:
+  group: p12b-acquisition
+  cancel-in-progress: false     # never abort a half-written acquisition
+
+jobs:
+  acquire:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 2. python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 3. record runner egress reachability
+        run: |
+          echo "Reachability from the GitHub-hosted runner:" | tee reachability.txt
+          for u in https://esmis.nal.usda.gov/ https://www.eia.gov/ \
+                   https://ir.eia.gov/ngs/ https://www.usda.gov/ ; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 25 "$u" || echo 000)
+            echo "  $u -> $code" | tee -a reachability.txt
+          done
+
+      - name: 4. fetch, hash before parsing, store raw bytes
+        run: |
+          if [ "${{ github.event.inputs.target }}" = "all" ]; then
+            python3 scripts/acquire_primary.py --all
+          else
+            python3 scripts/acquire_primary.py --target "${{ github.event.inputs.target }}"
+          fi
+
+      - name: 5. fail if any artifact is empty or unhashed
+        run: |
+          set -e
+          shopt -s nullglob
+          n=0
+          for f in raw/*; do
+            [ -s "$f" ] || { echo "::error::zero-byte artifact $f"; exit 1; }
+            n=$((n+1))
+          done
+          [ "$n" -gt 0 ] || { echo "::error::no artifacts produced"; exit 1; }
+          for p in provenance/*.json; do
+            python3 - "$p" <<'PY'
+          import json,sys
+          r=json.load(open(sys.argv[1]))
+          need=["source_id","dataset_id","provenance_class","official_source_name",
+                "official_source_url","acquisition_timestamp_utc","content_sha256",
+                "content_bytes","stored_path","parser"]
+          miss=[k for k in need if not r.get(k)]
+          assert not miss, f"{sys.argv[1]}: missing provenance {miss}"
+          assert r["provenance_class"]=="primary", f"{sys.argv[1]}: not primary"
+          assert len(r["content_sha256"])==64, f"{sys.argv[1]}: bad hash"
+          PY
+          done
+          echo "$n artifact(s) validated"
+
+      - name: 6. verify no artifact was overwritten
+        run: |
+          # Any file under raw/ that git reports as MODIFIED (rather than new)
+          # means an immutable artifact was overwritten. That is a hard failure.
+          if git diff --name-only -- raw/ | grep -q .; then
+            echo "::error::an existing raw artifact was modified in place"
+            git diff --name-only -- raw/
+            exit 1
+          fi
+          echo "no in-place modification of raw/"
+
+      - name: 7. commit artifacts
+        run: |
+          git config user.name  "p12b-acquisition-bot"
+          git config user.email "actions@github.com"
+          git add raw/ provenance/ hashes/ reachability.txt
+          if git diff --cached --quiet; then
+            echo "nothing new to commit"; exit 0
+          fi
+          git commit -m "P12B: primary-source acquisition $(date -u +%FT%TZ)
+
+          Acquired from the official source on a GitHub-hosted runner.
+          Bytes hashed before parsing. GitHub is transport and archive only."
+          git push
+
+      - name: 8. expose for local round-trip verification
+        run: |
+          echo "commit: $(git rev-parse HEAD)"
+          echo "Retrieve locally via:"
+          for f in hashes/*.sha256; do
+            b=$(awk '{print $2}' "$f")
+            echo "  https://raw.githubusercontent.com/${{ github.repository }}/$(git rev-parse HEAD)/$b"
+          done
+          cat hashes/*.sha256
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: p12b-provenance
+          path: |
+            provenance/
+            hashes/
+            reachability.txt

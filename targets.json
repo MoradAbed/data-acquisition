@@ -1,0 +1,62 @@
+{
+  "_comment": "P12B POC targets. Dates fixed in POC_DATES.json BEFORE any retrieval attempt.",
+  "targets": [
+    {
+      "source_id": "USDA-WASDE-2013-05-10",
+      "dataset_id": "INV-USDA-WASDE",
+      "provenance_class": "primary",
+      "official_source_name": "USDA Office of the Chief Economist / ESMIS, WASDE-518",
+      "official_source_url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/ff365560t/wasde-05-10-2013.pdf",
+      "extension": ".pdf",
+      "expected_status": 200,
+      "min_bytes": 50000,
+      "reference_date": "2013-05-10",
+      "source_publication_date": "2013-05-10",
+      "source_publication_time": null,
+      "timezone": "America/New_York",
+      "publication_time_evidence": "MUST be established from the artifact itself or an official release calendar; not to be assumed from general documentation (Phase 12B section I)"
+    },
+    {
+      "source_id": "USDA-WASDE-2013-05-10-XLS",
+      "dataset_id": "INV-USDA-WASDE",
+      "provenance_class": "primary",
+      "official_source_name": "USDA Office of the Chief Economist / ESMIS, WASDE-518 (xls)",
+      "official_source_url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/mw22v592z/wasde-05-10-2013.xls",
+      "extension": ".xls",
+      "expected_status": 200,
+      "min_bytes": 20000,
+      "reference_date": "2013-05-10",
+      "source_publication_date": "2013-05-10",
+      "timezone": "America/New_York"
+    },
+    {
+      "source_id": "EIA-WPSR-2016-12-07",
+      "dataset_id": "INV-EIA-PET",
+      "provenance_class": "primary",
+      "official_source_name": "U.S. Energy Information Administration, Weekly Petroleum Status Report archive",
+      "official_source_url": "https://www.eia.gov/petroleum/supply/weekly/archive/2016/2016_12_07/pdf/wpsrall.pdf",
+      "extension": ".pdf",
+      "expected_status": 200,
+      "min_bytes": 100000,
+      "reference_date": "2016-12-02",
+      "source_publication_date": "2016-12-07",
+      "source_publication_time": null,
+      "timezone": "America/New_York",
+      "publication_time_evidence": "MUST be read from the artifact or the EIA published schedule; the 10:30 ET convention is NOT to be assumed"
+    },
+    {
+      "source_id": "EIA-NG-REVISIONS",
+      "dataset_id": "INV-EIA-NG",
+      "provenance_class": "primary",
+      "official_source_name": "U.S. Energy Information Administration, Natural Gas Storage revisions and reclassifications record",
+      "official_source_url": "https://ir.eia.gov/ngs/revisions.xls",
+      "extension": ".xls",
+      "expected_status": 200,
+      "min_bytes": 5000,
+      "reference_date": null,
+      "source_publication_date": null,
+      "timezone": "America/New_York",
+      "publication_time_evidence": "Rolling file; the ONLY published record of EIA pre-revision estimates (Nov 2015 onward). Required for the natural-gas point-in-time test."
+    }
+  ]
+}
