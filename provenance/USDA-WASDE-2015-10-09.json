@@ -1,10 +1,10 @@
 {
   "acq_version": "ACQ-1",
-  "source_id": "USDA-WASDE-2013-05-10",
+  "source_id": "USDA-WASDE-2015-10-09",
   "dataset_id": "INV-USDA-WASDE",
   "provenance_class": "primary",
-  "official_source_name": "USDA Office of the Chief Economist / ESMIS, WASDE 2013-05-10",
-  "official_source_url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/mw22v592z/wasde-05-10-2013.xls",
+  "official_source_name": "USDA Office of the Chief Economist / ESMIS, WASDE 2015-10-09",
+  "official_source_url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/g445cd50f/79407x61s/wasde-10-09-2015.xls",
   "transport_and_archive_layer": {
     "note": "GitHub is transport and archive only, NOT the data source",
     "repository": "MoradAbed/data-acquisition",
@@ -13,23 +13,23 @@
     "runner": "Linux"
   },
   "request": {
-    "url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/mw22v592z/wasde-05-10-2013.xls",
+    "url": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/g445cd50f/79407x61s/wasde-10-09-2015.xls",
     "method": "GET",
     "headers_sent": {
       "User-Agent": "p12b-acquisition-bridge/1.0 (systematic-trading research; public-domain government data; contact via repository issues)"
     }
   },
   "acquisition_channel": "github_actions_runner",
-  "acquisition_timestamp_utc": "2026-09-07T17:13:11+00:00",
+  "acquisition_timestamp_utc": "2026-09-07T17:13:16+00:00",
   "http_status": 200,
   "content_type": "application/vnd.ms-excel",
-  "content_length_header": "349696",
-  "content_bytes": 349696,
-  "content_sha256": "d921e2aca508252585fdbb42d7a41e1b895f22f5ddae135b103ee821a89e4040",
-  "stored_path": "raw/USDA-WASDE-2013-05-10.d921e2aca5082525.xls",
+  "content_length_header": "272384",
+  "content_bytes": 272384,
+  "content_sha256": "f4a4999d2dc7ba68dba7332830ca93d1494f7ef8c7b5ca3f423452ae423c9531",
+  "stored_path": "raw/USDA-WASDE-2015-10-09.f4a4999d2dc7ba68.xls",
   "release": {
-    "reference_date": "2013-05-10",
-    "source_publication_date": "2013-05-10",
+    "reference_date": "2015-10-09",
+    "source_publication_date": "2015-10-09",
     "source_publication_time": null,
     "timezone": "America/New_York",
     "publication_time_evidence": "To be read from the artifact or the official release calendar; not assumed from general documentation."
@@ -41,5 +41,5 @@
     "version": "P12B-acquire-1.0.0"
   },
   "observations": [],
-  "supersedes": "ff1d179197fa7296baf7f126c29c3d838d84e6084eeaaaec42b869b5f970d5cb"
+  "supersedes": null
 }

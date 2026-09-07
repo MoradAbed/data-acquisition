@@ -1,0 +1,963 @@
+{
+  "source": "https://esmis.nal.usda.gov/concern/publications/3t945q76s",
+  "pages_read": 30,
+  "n_dates": 208,
+  "index": {
+    "2018-09-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b6406/fx719m747/wasde-09-12-2018.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b6406/kd17ct22c/wasde-09-12-2018.xml",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b6406/qj72p753r/wasde-09-12-2018.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b6406/7d278t41t/wasde-09-12-2018.xls"
+    },
+    "2018-08-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xw42n8302/gt54kn398/wasde-08-10-2018.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xw42n8302/zk51vh10f/wasde-08-10-2018.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xw42n8302/cr56n135t/wasde-08-10-2018.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xw42n8302/5q47rp16t/wasde-08-10-2018.txt"
+    },
+    "2018-07-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x426b/fj236239t/wasde-07-12-2018.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x426b/mw22v5937/wasde-07-12-2018.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x426b/8049g5524/wasde-07-12-2018.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x426b/qv33rx12b/wasde-07-12-2018.xml"
+    },
+    "2018-06-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p0623/5425kb11v/wasde-06-12-2018.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p0623/p8418n577/wasde-06-12-2018.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p0623/sb397861m/wasde-06-12-2018.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p0623/w37637203/wasde-06-12-2018.xml"
+    },
+    "2018-05-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb078/pv63g0634/wasde-05-10-2018.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb078/2z10wq49c/wasde-05-10-2018.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb078/q237hs39p/wasde-05-10-2018.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb078/tt44pn24d/wasde-05-10-2018.pdf"
+    },
+    "2018-04-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s51z/41687h85j/wasde-04-10-2018.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s51z/jh343s737/wasde-04-10-2018.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s51z/2v23vt779/wasde-04-10-2018.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s51z/zs25x8916/wasde-04-10-2018.pdf"
+    },
+    "2018-03-08": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx71z/8s45q911z/wasde-03-08-2018.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx71z/rr171x68r/wasde-03-08-2018.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx71z/8c97kq76j/wasde-03-08-2018.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx71z/wh246s552/wasde-03-08-2018.txt"
+    },
+    "2018-02-08": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ft848r05s/xg94hp89h/wasde-02-08-2018.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ft848r05s/x059c777n/wasde-02-08-2018.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ft848r05s/000000353/wasde-02-08-2018.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ft848r05s/1g05fb86k/wasde-02-08-2018.pdf"
+    },
+    "2018-01-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h225g/0r9674034/wasde-01-12-2018.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h225g/mk61rh20x/wasde-01-12-2018.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h225g/4q77fr60h/wasde-01-12-2018.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h225g/9w0323349/wasde-01-12-2018.txt"
+    },
+    "2017-12-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pn89d6834/1c18dg15k/wasde-12-12-2017.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pn89d6834/nk322d76k/wasde-12-12-2017.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pn89d6834/vm40xr983/wasde-12-12-2017.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pn89d6834/rf55z802w/wasde-12-12-2017.pdf"
+    },
+    "2017-11-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv76n/sq87bv02g/wasde-11-09-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv76n/c534fp352/wasde-11-09-2017.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv76n/3r074v330/wasde-11-09-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv76n/9z9030205/wasde-11-09-2017.txt"
+    },
+    "2017-10-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tm70mv56x/6108vb66v/wasde-10-12-2017.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tm70mv56x/j6731418j/wasde-10-12-2017.xml",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tm70mv56x/qv33rx112/wasde-10-12-2017.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tm70mv56x/08612n865/wasde-10-12-2017.pdf"
+    },
+    "2017-09-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/br86b406q/3197xm48m/wasde-09-12-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/br86b406q/k930bx40s/wasde-09-12-2017.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/br86b406q/st74cq815/wasde-09-12-2017.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/br86b406q/0v838079h/wasde-09-12-2017.xls"
+    },
+    "2017-08-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8k71nh37b/cc08hf97m/wasde-08-10-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8k71nh37b/gm80hv81h/wasde-08-10-2017.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8k71nh37b/vm40xr97t/wasde-08-10-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8k71nh37b/ff3655613/wasde-08-10-2017.pdf"
+    },
+    "2017-07-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9g54xh96x/wp988k17c/wasde-07-12-2017.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9g54xh96x/bn999722v/wasde-07-12-2017.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9g54xh96x/3484zh16k/wasde-07-12-2017.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9g54xh96x/76537167c/wasde-07-12-2017.xls"
+    },
+    "2017-06-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/df65v8181/k0698788d/wasde-06-09-2017.xml",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/df65v8181/p5547r919/wasde-06-09-2017.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/df65v8181/td96k286b/wasde-06-09-2017.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/df65v8181/6682x427m/wasde-06-09-2017.pdf"
+    },
+    "2017-05-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4m90dv88p/ms35t8973/wasde-05-10-2017.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4m90dv88p/t435gd27d/wasde-05-10-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4m90dv88p/zp38wc93h/wasde-05-10-2017.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4m90dv88p/cr56n134j/wasde-05-10-2017.pdf"
+    },
+    "2017-04-11": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h9253/70795797m/wasde-04-11-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h9253/m039k528t/wasde-04-11-2017.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h9253/1g05fb87v/wasde-04-11-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h9253/9019s282h/wasde-04-11-2017.txt"
+    },
+    "2017-03-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wp988k138/t148fh50z/wasde-03-09-2017.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wp988k138/6395w7416/wasde-03-09-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wp988k138/h989r365f/wasde-03-09-2017.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wp988k138/3f462585x/wasde-03-09-2017.pdf"
+    },
+    "2017-02-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x576/sx61dm626/wasde-02-09-2017.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x576/1j92g7783/wasde-02-09-2017.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x576/765371663/wasde-02-09-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x576/n583xv42k/wasde-02-09-2017.pdf"
+    },
+    "2017-01-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/fb494882m/v118rd89t/wasde-01-12-2017.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/fb494882m/4x51hj39r/wasde-01-12-2017.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/fb494882m/t722h9296/wasde-01-12-2017.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/fb494882m/5138jf292/wasde-01-12-2017.pdf"
+    },
+    "2016-12-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/73666481z/2227mq03n/wasde-12-09-2016.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/73666481z/qj72p752g/wasde-12-09-2016.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/73666481z/q811kk07w/wasde-12-09-2016.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/73666481z/bg257f488/wasde-12-09-2016.txt"
+    },
+    "2016-11-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t662v/6d56zx101/wasde-11-09-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t662v/c821gk09p/wasde-11-09-2016.xml",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t662v/hm50ts09n/wasde-11-09-2016.txt",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t662v/vt150j734/wasde-11-09-2016.xls"
+    },
+    "2016-10-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b639f/9306sz72b/wasde-10-12-2016.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b639f/j098zb438/wasde-10-12-2016.xls",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b639f/gm80hv807/wasde-10-12-2016.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4b29b639f/1n79h462q/wasde-10-12-2016.xml"
+    },
+    "2016-09-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zk51vh08d/2r36tx925/wasde-09-12-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zk51vh08d/ht24wj826/wasde-09-12-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zk51vh08d/4j03cz98q/wasde-09-12-2016.xls"
+    },
+    "2016-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sj139222d/736664827/wasde-08-12-2016.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sj139222d/0c483j755/wasde-08-12-2016.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sj139222d/wp988k15t/wasde-08-12-2016.xml"
+    },
+    "2016-07-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0z708w82w/2v23vt761/wasde-07-12-2016.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0z708w82w/76537165t/wasde-07-12-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0z708w82w/wp988k163/wasde-07-12-2016.xml"
+    },
+    "2016-06-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jh343s69n/bz60cw59v/wasde-06-10-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jh343s69n/bk128b32m/wasde-06-10-2016.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jh343s69n/m900nt80d/wasde-06-10-2016.pdf"
+    },
+    "2016-05-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bg257f43w/9c67wn14d/wasde-05-10-2016.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bg257f43w/z316q1946/wasde-05-10-2016.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bg257f43w/bv73c074w/wasde-05-10-2016.xml"
+    },
+    "2016-04-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc302/fn106z35s/wasde-04-12-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc302/qb98mf92z/wasde-04-12-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc302/t722h928x/wasde-04-12-2016.xls"
+    },
+    "2016-03-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x8827/q524jp17w/wasde-03-09-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x8827/f4752h08s/wasde-03-09-2016.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x8827/d504rk71k/wasde-03-09-2016.pdf"
+    },
+    "2016-02-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gx41mj212/tt44pn234/wasde-02-09-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gx41mj212/5425kb10k/wasde-02-09-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gx41mj212/7p88cg876/wasde-02-09-2016.xls"
+    },
+    "2016-01-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jd472w730/mg74qm64r/wasde-01-12-2016.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jd472w730/hm50ts08c/wasde-01-12-2016.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jd472w730/qv33rx10s/wasde-01-12-2016.xls"
+    },
+    "2015-12-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rj430479p/sb397859k/wasde-12-09-2015.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rj430479p/ng451h859/wasde-12-09-2015.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rj430479p/jm214p51f/wasde-12-09-2015.xls"
+    },
+    "2015-11-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qr46r120z/bg257f470/wasde-11-10-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qr46r120z/t435gd25v/wasde-11-10-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qr46r120z/k643b1606/wasde-11-10-2015.pdf"
+    },
+    "2015-10-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/g445cd50f/9593tv51s/wasde-10-09-2015.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/g445cd50f/c534fp36b/wasde-10-09-2015.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/g445cd50f/79407x61s/wasde-10-09-2015.xls"
+    },
+    "2015-09-11": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z029p513z/w37637182/wasde-09-11-2015.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z029p513z/2801pg63c/wasde-09-11-2015.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z029p513z/td96k2852/wasde-09-11-2015.xls"
+    },
+    "2015-08-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rb68xc23d/zs25x890x/wasde-08-12-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rb68xc23d/tx31qj088/wasde-08-12-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rb68xc23d/mc87pq58c/wasde-08-12-2015.pdf"
+    },
+    "2015-07-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/q524jp142/nc580n00z/wasde-07-10-2015.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/q524jp142/hd76s042c/wasde-07-10-2015.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/q524jp142/g732d936v/wasde-07-10-2015.xls"
+    },
+    "2015-06-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k643b157w/pr76f378h/wasde-06-10-2015.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k643b157w/cz30pt087/wasde-06-10-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k643b157w/9p2909638/wasde-06-10-2015.xls"
+    },
+    "2015-05-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4t64gn433/2v23vt75r/wasde-05-12-2015.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4t64gn433/xk81jk744/wasde-05-12-2015.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4t64gn433/zs25x8895/wasde-05-12-2015.xml"
+    },
+    "2015-04-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zp38wc91z/5999n384w/wasde-04-09-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zp38wc91z/n296wz391/wasde-04-09-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zp38wc91z/z890rt669/wasde-04-09-2015.pdf"
+    },
+    "2015-03-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1831ck330/g158bh60f/wasde-03-10-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1831ck330/j098zb420/wasde-03-10-2015.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1831ck330/w6634403p/wasde-03-10-2015.xml"
+    },
+    "2015-02-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4f16c3196/2z10wq504/wasde-02-10-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4f16c3196/h128nf06h/wasde-02-10-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4f16c3196/qz20ss84m/wasde-02-10-2015.pdf"
+    },
+    "2015-01-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6q182k43h/pn89d685p/wasde-01-12-2015.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6q182k43h/bk128b31b/wasde-01-12-2015.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6q182k43h/gm80hv79g/wasde-01-12-2015.pdf"
+    },
+    "2014-12-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6t053g36b/h128nf057/wasde-12-10-2014.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6t053g36b/12579s62z/wasde-12-10-2014.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6t053g36b/4j03cz990/wasde-12-10-2014.pdf"
+    },
+    "2014-11-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t6609/gf06g3121/wasde-11-10-2014.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t6609/wd375w68w/wasde-11-10-2014.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v692t6609/d217qp82v/wasde-11-10-2014.xls"
+    },
+    "2014-10-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vh53ww03h/1r66j152q/wasde-10-10-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vh53ww03h/t435gd24k/wasde-10-10-2014.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vh53ww03h/3n203z440/wasde-10-10-2014.pdf"
+    },
+    "2014-09-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h924t/q524jp16m/wasde-09-11-2014.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h924t/qz20ss83b/wasde-09-11-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t722h924t/m039k527j/wasde-09-11-2014.xml"
+    },
+    "2014-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h2246/9g54xh98g/wasde-08-12-2014.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h2246/2227mq04x/wasde-08-12-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8336h2246/db78tc33w/wasde-08-12-2014.xml"
+    },
+    "2014-07-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vq27zn76k/7d278t40j/wasde-07-11-2014.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vq27zn76k/mp48sd16v/wasde-07-11-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vq27zn76k/rx913q155/wasde-07-11-2014.xml"
+    },
+    "2014-06-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b8515n698/5x21tf81d/wasde-06-11-2014.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b8515n698/ht24wj81x/wasde-06-11-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b8515n698/s1784m160/wasde-06-11-2014.xml"
+    },
+    "2014-05-09": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x56x/vh53ww04s/wasde-05-09-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x56x/v692t6677/wasde-05-09-2014.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/79407x56x/0k225b35p/wasde-05-09-2014.pdf"
+    },
+    "2014-04-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ht24wj80n/02870w408/wasde-04-09-2014.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ht24wj80n/gx41mj255/wasde-04-09-2014.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ht24wj80n/p2676v823/wasde-04-09-2014.xls"
+    },
+    "2014-03-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m900nt76t/3n203z458/wasde-03-10-2014.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m900nt76t/ww72bb862/wasde-03-10-2014.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m900nt76t/6d56zx119/wasde-03-10-2014.xml"
+    },
+    "2014-02-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8948/1j92g777t/wasde-02-10-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8948/v692t666z/wasde-02-10-2014.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8948/rv042t39j/wasde-02-10-2014.pdf"
+    },
+    "2014-01-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tq57nr35p/zs25x888w/wasde-01-10-2014.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tq57nr35p/fb4948845/wasde-01-10-2014.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/tq57nr35p/k643b159f/wasde-01-10-2014.xml"
+    },
+    "2013-12-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7w62f8608/fq977v24r/wasde-12-10-2013.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7w62f8608/hh63sw31x/wasde-12-10-2013.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7w62f8608/td96k284s/wasde-12-10-2013.pdf"
+    },
+    "2013-11-08": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9k41zd93b/vt150j74d/wasde-11-08-2013.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9k41zd93b/pv63g064d/wasde-11-08-2013.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9k41zd93b/v118rd91v/wasde-11-08-2013.xls"
+    },
+    "2013-09-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/08612n84m/3f4625866/wasde-09-12-2013.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/08612n84m/pz50gw415/wasde-09-12-2013.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/08612n84m/k0698789p/wasde-09-12-2013.xls"
+    },
+    "2013-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bk128b299/4t64gn45n/wasde-08-12-2013.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bk128b299/41687h848/wasde-08-12-2013.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bk128b299/wm117p338/wasde-08-12-2013.xml"
+    },
+    "2013-07-11": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mc87pq55j/j38607367/wasde-07-11-2013.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mc87pq55j/7d278t38h/wasde-07-11-2013.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mc87pq55j/fb494883w/wasde-07-11-2013.xls"
+    },
+    "2013-06-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8c97kq70w/zg64tm352/wasde-06-12-2013.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8c97kq70w/dv13zt551/wasde-06-12-2013.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8c97kq70w/bk128b33w/wasde-06-12-2013.xml"
+    },
+    "2013-05-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/mw22v592z/wasde-05-10-2013.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/ff365560t/wasde-05-10-2013.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx22m/6d56zx098/wasde-05-10-2013.xml"
+    },
+    "2013-04-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx70p/m039k5268/wasde-04-10-2013.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx70p/1z40kt27p/wasde-04-10-2013.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z603qx70p/6d56zx080/wasde-04-10-2013.xml"
+    },
+    "2013-03-08": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b2773w09j/zp38wc927/wasde-03-08-2013.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b2773w09j/8c97kq740/wasde-03-08-2013.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/b2773w09j/2n49t213n/wasde-03-08-2013.pdf"
+    },
+    "2013-02-08": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/474299541/0z708w85q/wasde-02-08-2013.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/474299541/8336h226r/wasde-02-08-2013.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/474299541/mc87pq573/wasde-02-08-2013.pdf"
+    },
+    "2013-01-11": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1r66j149d/3n203z43q/wasde-01-11-2013.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1r66j149d/ws859g07c/wasde-01-11-2013.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1r66j149d/ng451h841/wasde-01-11-2013.xls"
+    },
+    "2012-12-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2r36tx89v/df65v8199/wasde-12-11-2012.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2r36tx89v/8049g551v/wasde-12-11-2012.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2r36tx89v/j67314160/wasde-12-11-2012.xls"
+    },
+    "2012-11-09": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zw12z571z/7m01bm09j/wasde-11-09-2012.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zw12z571z/hx11xf59n/wasde-11-09-2012.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zw12z571z/6q182k452/wasde-11-09-2012.xml"
+    },
+    "2012-10-11": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jw827c173/8k71nh38m/wasde-10-11-2012.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jw827c173/ns064634t/wasde-10-11-2012.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jw827c173/dn39x1934/wasde-10-11-2012.xml"
+    },
+    "2012-09-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv75c/np193955b/wasde-09-12-2012.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv75c/kd17ct213/wasde-09-12-2012.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gm80hv75c/b8515n701/wasde-09-12-2012.xls"
+    },
+    "2012-08-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8930/ms35t896t/wasde-08-10-2012.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8930/73666483h/wasde-08-10-2012.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ms35t8930/t435gd264/wasde-08-10-2012.xml"
+    },
+    "2012-07-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg74n/zs25x887m/wasde-07-11-2012.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg74n/hm50ts073/wasde-07-11-2012.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg74n/zk51vh09p/wasde-07-11-2012.xml"
+    },
+    "2012-06-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f612s/gx41mj24w/wasde-06-12-2012.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f612s/k643b162r/wasde-06-12-2012.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f612s/k643b161g/wasde-06-12-2012.xls"
+    },
+    "2012-05-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc299/rv042t388/wasde-05-10-2012.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc299/st74cq80w/wasde-05-10-2012.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc299/s1784m14f/wasde-05-10-2012.xml"
+    },
+    "2012-04-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m326m214q/jq085k331/wasde-04-10-2012.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m326m214q/2f75r8412/wasde-04-10-2012.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m326m214q/sf268550b/wasde-04-10-2012.pdf"
+    },
+    "2012-03-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3197xm462/qn59q435b/wasde-03-09-2012.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3197xm462/fx719m73z/wasde-03-09-2012.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3197xm462/x059c776c/wasde-03-09-2012.xls"
+    },
+    "2012-02-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc281/cf95jb65j/wasde-02-09-2012.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc281/v118rd88j/wasde-02-09-2012.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc281/x920fx25f/wasde-02-09-2012.pdf"
+    },
+    "2012-01-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mw22v590d/7s75dc75n/wasde-01-12-2012.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mw22v590d/n870zr15x/wasde-01-12-2012.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mw22v590d/1g05fb859/wasde-01-12-2012.xls"
+    },
+    "2011-12-09": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx21b/g445cd51q/wasde-12-09-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx21b/sb397860b/wasde-12-09-2011.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x920fx21b/1g05fb841/wasde-12-09-2011.xml"
+    },
+    "2011-11-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/p5547r855/p5547r898/wasde-11-09-2011.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/p5547r855/j67314178/wasde-11-09-2011.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/p5547r855/z316q193x/wasde-11-09-2011.xls"
+    },
+    "2011-10-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h989r362m/sj139223p/wasde-10-12-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h989r362m/tb09j6118/wasde-10-12-2011.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h989r362m/1v53jx418/wasde-10-12-2011.xml"
+    },
+    "2011-09-12": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3f4625823/g732d9374/wasde-09-12-2011.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3f4625823/wm117p34j/wasde-09-12-2011.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3f4625823/kp78gg819/wasde-09-12-2011.xls"
+    },
+    "2011-08-11": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8g84mm551/hq37vn994/wasde-08-11-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8g84mm551/w3763719b/wasde-08-11-2011.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8g84mm551/7p88cg86x/wasde-08-11-2011.xml"
+    },
+    "2011-07-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8s45q910p/6q182k46b/wasde-07-12-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8s45q910p/xk81jk72k/wasde-07-12-2011.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/8s45q910p/d504rk709/wasde-07-12-2011.xml"
+    },
+    "2011-06-09": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hd76s040t/v692t668h/wasde-06-09-2011.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hd76s040t/n583xv43v/wasde-06-09-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hd76s040t/7d278t423/wasde-06-09-2011.pdf"
+    },
+    "2011-05-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw58k/p8418n56z/wasde-05-11-2011.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw58k/tx31qj06q/wasde-05-11-2011.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw58k/w0892b39k/wasde-05-11-2011.xls"
+    },
+    "2011-04-08": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z890rt626/dn39x192v/wasde-04-08-2011.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z890rt626/ww72bb85s/wasde-04-08-2011.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z890rt626/0p0967292/wasde-04-08-2011.pdf"
+    },
+    "2011-03-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/02870w35d/jq085k32r/wasde-03-10-2011.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/02870w35d/4j03cz97f/wasde-03-10-2011.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/02870w35d/xk81jk719/wasde-03-10-2011.xls"
+    },
+    "2011-02-09": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9s1616520/ng451h83r/wasde-02-09-2011.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9s1616520/1j92g776j/wasde-02-09-2011.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9s1616520/h989r3645/wasde-02-09-2011.pdf"
+    },
+    "2011-01-12": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/st74cq794/76537164j/wasde-01-12-2011.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/st74cq794/hx11xf58c/wasde-01-12-2011.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/st74cq794/8623hz04s/wasde-01-12-2011.pdf"
+    },
+    "2010-12-15": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x881z/4t64gn44c/wasde-12-15-2010.txt"
+    },
+    "2010-12-10": {
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rf55z801m/kh04dq03d/wasde-12-10-2010.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rf55z801m/mp48sd174/wasde-12-10-2010.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rf55z801m/7p88cg85n/wasde-12-10-2010.pdf"
+    },
+    "2010-11-09": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s48n/dj52w5099/wasde-11-09-2010.xls",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s48n/zs25x892g/wasde-11-09-2010.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/wh246s48n/6682x428w/wasde-11-09-2010.pdf"
+    },
+    "2010-10-08": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/05741r990/fq977v23g/wasde-10-08-2010.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/05741r990/v692t665p/wasde-10-08-2010.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/05741r990/47429957v/wasde-10-08-2010.xml"
+    },
+    "2010-09-10": {
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg723/qv33rx091/wasde-09-10-2010.xls",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg723/44558d730/wasde-09-10-2010.pdf",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg723/f1881m24x/wasde-09-10-2010.xml",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg723/6w924c162/wasde-09-10-2010.txt"
+    },
+    "2010-08-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hh63sw29w/pc289j32w/wasde-08-12-2010.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hh63sw29w/n009w264b/wasde-08-12-2010.xml",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hh63sw29w/9k41zd95w/wasde-08-12-2010.xls",
+      "xlsx": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hh63sw29w/v118rd878/wasde-08-12-2010.xlsx",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hh63sw29w/rn3011674/wasde-08-12-2010.pdf"
+    },
+    "2010-07-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3n203z415/d791sg544/wasde-07-09-2010.txt",
+      "xml": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3n203z415/6t053g38w/wasde-07-09-2010.xml",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3n203z415/8c97kq758/wasde-07-09-2010.pdf",
+      "xls": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3n203z415/jh343s72z/wasde-07-09-2010.xls"
+    },
+    "2010-06-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/j098zb41q/c534fp34s/wasde-06-10-2010.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/j098zb41q/b8515n719/wasde-06-10-2010.pdf"
+    },
+    "2010-05-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb05q/wh246s54s/wasde-05-11-2010.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5425kb05q/w3763717s/wasde-05-11-2010.pdf"
+    },
+    "2010-04-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw579/6w924c15s/wasde-04-09-2010.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw579/q811kk05b/wasde-04-09-2010.txt"
+    },
+    "2010-03-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/kh04dq024/nk322d759/wasde-03-10-2010.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/kh04dq024/rn301168d/wasde-03-10-2010.txt"
+    },
+    "2010-02-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/47429952g/zs25x886b/wasde-02-09-2010.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/47429952g/z316q191c/wasde-02-09-2010.txt"
+    },
+    "2010-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2j62s524n/9880vr27z/wasde-01-12-2010.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2j62s524n/8049g550k/wasde-01-12-2010.pdf"
+    },
+    "2009-12-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0g354f63m/th83kz65n/wasde-12-10-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0g354f63m/zg64tm34s/wasde-12-10-2009.pdf"
+    },
+    "2009-11-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9880vr26p/37720d14d/wasde-11-10-2009.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9880vr26p/3n203z42f/wasde-11-10-2009.txt"
+    },
+    "2009-10-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sn009z14s/n009w266w/wasde-10-09-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sn009z14s/2j62s5291/wasde-10-09-2009.pdf"
+    },
+    "2009-09-14": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pc289j31m/8c97kq72f/wasde-09-14-2009.txt"
+    },
+    "2009-09-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5q47rp148/1g05fb83r/wasde-09-11-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5q47rp148/9g54xh976/wasde-09-11-2009.pdf"
+    },
+    "2009-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/f4752h067/m900nt79n/wasde-08-12-2009.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/f4752h067/s1784m135/wasde-08-12-2009.txt"
+    },
+    "2009-07-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sb397855g/1c18dg131/wasde-07-10-2009.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sb397855g/ng451h82g/wasde-07-10-2009.txt"
+    },
+    "2009-06-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h128nf04z/8049g549t/wasde-06-10-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h128nf04z/3t945r12f/wasde-06-10-2009.pdf"
+    },
+    "2009-05-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9k41zd922/8336h2271/wasde-05-12-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9k41zd922/t722h927n/wasde-05-12-2009.pdf"
+    },
+    "2009-04-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zg64tm327/3484zh159/wasde-04-09-2009.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zg64tm327/cz30pt07z/wasde-04-09-2009.txt"
+    },
+    "2009-03-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc27r/rj4304838/wasde-03-11-2009.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/db78tc27r/bg257f46q/wasde-03-11-2009.txt"
+    },
+    "2009-02-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qv33rx066/qn59q436m/wasde-02-10-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qv33rx066/v118rd90k/wasde-02-10-2009.pdf"
+    },
+    "2009-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t148fh48x/gt54kn380/wasde-01-12-2009.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/t148fh48x/79407x60h/wasde-01-12-2009.pdf"
+    },
+    "2008-12-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sf2685489/t435gd239/wasde-12-12-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sf2685489/gq67jr455/wasde-12-12-2008.txt"
+    },
+    "2008-12-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dz010q391/9w0323331/wasde-12-11-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dz010q391/2f75r840s/wasde-12-11-2008.pdf"
+    },
+    "2008-11-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vd66w023x/1r66j1530/wasde-11-10-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vd66w023x/z890rt67k/wasde-11-10-2008.txt"
+    },
+    "2008-10-28": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x059c7753/2227mq02c/wasde-10-28-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x059c7753/fj236238j/wasde-10-28-2008.txt"
+    },
+    "2008-10-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bc386j52m/zc77sq44s/wasde-10-10-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bc386j52m/v405s975q/wasde-10-10-2008.txt"
+    },
+    "2008-09-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f6107/k643b1585/wasde-09-12-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f6107/fn106z34h/wasde-09-12-2008.pdf"
+    },
+    "2008-08-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7h149q15f/t722h926c/wasde-08-12-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7h149q15f/6969z116m/wasde-08-12-2008.pdf"
+    },
+    "2008-07-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6969z113s/p5547r87q/wasde-07-11-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6969z113s/w9505078s/wasde-07-11-2008.pdf"
+    },
+    "2008-06-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xk81jk680/0z708w84f/wasde-06-10-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xk81jk680/jd472w78c/wasde-06-10-2008.txt"
+    },
+    "2008-05-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rx913q14w/12579s61p/wasde-05-09-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rx913q14w/bn999721k/wasde-05-09-2008.pdf"
+    },
+    "2008-04-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/d504rk670/td96k281z/wasde-04-09-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/d504rk670/m900nt773/wasde-04-09-2008.pdf"
+    },
+    "2008-03-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6w924c137/fx719m72p/wasde-03-11-2008.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6w924c137/7h149q170/wasde-03-11-2008.txt"
+    },
+    "2008-02-08": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3j3332609/3197xm47b/wasde-02-08-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3j3332609/4b29b642r/wasde-02-08-2008.pdf"
+    },
+    "2008-01-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gh93gz83t/8k71nh39w/wasde-01-11-2008.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gh93gz83t/05741s00j/wasde-01-11-2008.pdf"
+    },
+    "2007-12-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m039k5250/v405s974f/wasde-12-11-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m039k5250/2j62s528r/wasde-12-11-2007.txt"
+    },
+    "2007-11-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bk128b27r/gh93gz86n/wasde-11-09-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bk128b27r/ws859g063/wasde-11-09-2007.txt"
+    },
+    "2007-10-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ns0646328/gt54kn36f/wasde-10-12-2007.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/ns0646328/s4655g977/wasde-10-12-2007.pdf"
+    },
+    "2007-09-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1831ck31f/x920fx245/wasde-09-12-2007.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1831ck31f/dv13zt54r/wasde-09-12-2007.pdf"
+    },
+    "2007-08-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v979v341m/2j62s527g/wasde-08-10-2007.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v979v341m/7m01bm088/wasde-08-10-2007.pdf"
+    },
+    "2007-07-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vx021f47r/8w32r594r/wasde-07-12-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vx021f47r/765371638/wasde-07-12-2007.txt"
+    },
+    "2007-06-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7m01bm06q/zs25x8852/wasde-06-11-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7m01bm06q/cr56n1338/wasde-06-11-2007.txt"
+    },
+    "2007-05-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/f7623c912/gf06g310g/wasde-05-11-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/f7623c912/7m01bm070/wasde-05-11-2007.txt"
+    },
+    "2007-04-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2b88qc62k/f1881m23n/wasde-04-10-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2b88qc62k/fq977v226/wasde-04-10-2007.txt"
+    },
+    "2007-03-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7w62f859h/4b29b6449/wasde-03-09-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/7w62f859h/vd66w026r/wasde-03-09-2007.txt"
+    },
+    "2007-02-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cc08hf96b/0c483j74w/wasde-02-09-2007.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cc08hf96b/2j62s5266/wasde-02-09-2007.txt"
+    },
+    "2007-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x4252/7s75dc74c/wasde-01-12-2007.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6682x4252/1v53jx400/wasde-01-12-2007.pdf"
+    },
+    "2006-12-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/j098zb40f/p5547r901/wasde-12-11-2006.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/j098zb40f/hq37vn98v/wasde-12-11-2006.txt"
+    },
+    "2006-11-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw55r/ff3655592/wasde-11-09-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/bz60cw55r/js956g17v/wasde-11-09-2006.pdf"
+    },
+    "2006-10-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pr76f376z/jd472w773/wasde-10-12-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/pr76f376z/1j92g7758/wasde-10-12-2006.pdf"
+    },
+    "2006-09-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dn39x1888/70795796b/wasde-09-12-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dn39x1888/1r66j151f/wasde-09-12-2006.pdf"
+    },
+    "2006-08-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/js956g16k/bg257f45f/wasde-08-11-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/js956g16k/1v53jx38z/wasde-08-11-2006.pdf"
+    },
+    "2006-07-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x878n/3r074v32q/wasde-07-12-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zs25x878n/4b29b6431/wasde-07-12-2006.pdf"
+    },
+    "2006-06-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m900nt748/c534fp33h/wasde-06-09-2006.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m900nt748/rr171x666/wasde-06-09-2006.txt"
+    },
+    "2006-05-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2v23vz129/9880vv76h/wasde-05-12-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2v23vz129/kk91fq39m/wasde-05-12-2006.pdf"
+    },
+    "2006-04-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x633f1307/gx41mj23m/wasde-04-10-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/x633f1307/cz30pt06p/wasde-04-10-2006.pdf"
+    },
+    "2006-02-09": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f609g/hm50ts06t/wasde-02-09-2006.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f609g/5999n383m/wasde-02-09-2006.txt"
+    },
+    "2006-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/nv935317c/z316q1903/wasde-01-12-2006.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/nv935317c/h702q677r/wasde-01-12-2006.pdf"
+    },
+    "2005-12-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5999n3791/gm80hv77x/wasde-12-09-2005.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5999n3791/k06987874/wasde-12-09-2005.pdf"
+    },
+    "2005-11-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/s1784m10b/xd07gt046/wasde-11-10-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/s1784m10b/2z10wq483/wasde-11-10-2005.txt"
+    },
+    "2005-10-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xg94hp86p/6108vb65k/wasde-10-12-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xg94hp86p/np1939542/wasde-10-12-2005.txt"
+    },
+    "2005-09-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg70j/4t64gn46x/wasde-09-12-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xp68kg70j/9880vr287/wasde-09-12-2005.txt"
+    },
+    "2005-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mw22v589n/tb09j6100/wasde-08-12-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mw22v589n/qf85nb75j/wasde-08-12-2005.txt"
+    },
+    "2005-07-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hd76s3705/8910jz45w/wasde-07-12-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hd76s3705/1831cp907/wasde-07-12-2005.txt"
+    },
+    "2005-06-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/c534fp327/gq67jr46f/wasde-06-10-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/c534fp327/1c18dg149/wasde-06-10-2005.txt"
+    },
+    "2005-05-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9p290d90s/ft848v418/wasde-05-12-2005.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9p290d90s/zc77st98q/wasde-05-12-2005.pdf"
+    },
+    "2005-04-08": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m039k524q/2r36tx90m/wasde-04-08-2005.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/m039k524q/5425kb08j/wasde-04-08-2005.txt"
+    },
+    "2005-03-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/st74cv16p/c247dx08r/wasde-03-10-2005.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/st74cv16p/6108vg14x/wasde-03-10-2005.pdf"
+    },
+    "2005-02-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qz20ss822/9s161655t/wasde-02-09-2005.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/qz20ss822/1r66j1505/wasde-02-09-2005.pdf"
+    },
+    "2005-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3j333622q/mw22v936f/wasde-01-12-2005.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/3j333622q/db78th09n/wasde-01-12-2005.pdf"
+    },
+    "2004-12-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6108vb649/vd66w025g/wasde-12-10-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6108vb649/pn89d684d/wasde-12-10-2004.pdf"
+    },
+    "2004-11-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4j03d344d/4f16c692t/wasde-11-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/4j03d344d/s4655m11g/wasde-11-12-2004.pdf"
+    },
+    "2004-10-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/np193953s/wh246s527/wasde-10-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/np193953s/ns064633j/wasde-10-12-2004.pdf"
+    },
+    "2004-09-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sx61dq897/5m60qw575/wasde-09-10-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sx61dq897/c534ft07q/wasde-09-10-2004.pdf"
+    },
+    "2004-08-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2801pg59s/4x51hj38g/wasde-08-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2801pg59s/9c67wn134/wasde-08-12-2004.pdf"
+    },
+    "2004-07-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/th83m331t/pz50h093q/wasde-07-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/th83m331t/b8515s06t/wasde-07-12-2004.pdf"
+    },
+    "2004-06-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dr26xx64r/gx41mj22b/wasde-06-10-2004.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dr26xx64r/9s161654j/wasde-06-10-2004.txt"
+    },
+    "2004-05-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5999n716k/mp48sh687/wasde-05-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5999n716k/44558j13c/wasde-05-12-2004.pdf"
+    },
+    "2004-04-08": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zp38wc90p/bv73c073m/wasde-04-08-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zp38wc90p/j9602099s/wasde-04-08-2004.pdf"
+    },
+    "2004-03-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k930c187g/tq57nv872/wasde-03-10-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k930c187g/9w032654d/wasde-03-10-2004.pdf"
+    },
+    "2004-02-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k930bx38r/td96k283h/wasde-02-10-2004.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/k930bx38r/wp988k14j/wasde-02-10-2004.txt"
+    },
+    "2004-01-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v405sf09z/37720h56j/wasde-01-12-2004.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/v405sf09z/bk128f77k/wasde-01-12-2004.pdf"
+    },
+    "2003-12-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9s161651q/2801pg623/wasde-12-11-2003.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/9s161651q/d217qp81k/wasde-12-11-2003.pdf"
+    },
+    "2003-11-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jm214t22t/th83m330j/wasde-11-12-2003.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/jm214t22t/h702qb085/wasde-11-12-2003.pdf"
+    },
+    "2003-10-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0g354f612/8w32r593g/wasde-10-10-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/0g354f612/12579s60d/wasde-10-10-2003.txt"
+    },
+    "2003-09-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/r494vp883/v405sf08p/wasde-09-11-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/r494vp883/8623j256b/wasde-09-11-2003.txt"
+    },
+    "2003-08-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vd66w021c/mc87pq56t/wasde-08-12-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/vd66w021c/th83kz64c/wasde-08-12-2003.txt"
+    },
+    "2003-07-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dr26xx63g/m900nt78c/wasde-07-11-2003.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/dr26xx63g/7h149q16q/wasde-07-11-2003.pdf"
+    },
+    "2003-06-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cv43nx07q/rv042t370/wasde-06-11-2003.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cv43nx07q/xw42n831b/wasde-06-11-2003.pdf"
+    },
+    "2003-05-12": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sx61dm61x/c247ds427/wasde-05-12-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sx61dm61x/1v53jx397/wasde-05-12-2003.txt"
+    },
+    "2003-04-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2f75r838r/7d278t39s/wasde-04-10-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/2f75r838r/z890rt651/wasde-04-10-2003.txt"
+    },
+    "2003-03-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1v53jx354/79407x58g/wasde-03-11-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/1v53jx354/rj430481q/wasde-03-11-2003.txt"
+    },
+    "2003-02-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p3826/9p290d912/wasde-02-11-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/5d86p3826/5138jj630/wasde-02-11-2003.txt"
+    },
+    "2003-01-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/w0892b389/hd76s0413/wasde-01-10-2003.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/w0892b389/2227mq013/wasde-01-10-2003.txt"
+    },
+    "2002-12-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sb397d25k/vx021k00p/wasde-12-10-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/sb397d25k/sx61dq88z/wasde-12-10-2002.pdf"
+    },
+    "2002-11-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z029p512p/tx31qj05f/wasde-11-12-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/z029p512p/jd472w75j/wasde-11-12-2002.pdf"
+    },
+    "2002-10-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hm50tw52j/3484zm66d/wasde-10-11-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/hm50tw52j/6395wb67z/wasde-10-11-2002.pdf"
+    },
+    "2002-09-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f6086/qb98mf90d/wasde-09-12-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/gb19f6086/b5644r94c/wasde-09-12-2002.pdf"
+    },
+    "2002-08-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h415pf19f/ff365898c/wasde-08-12-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/h415pf19f/k3569817h/wasde-08-12-2002.pdf"
+    },
+    "2002-07-11": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xk81jk67q/d504rk69j/wasde-07-11-2002.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xk81jk67q/1z40kt26d/wasde-07-11-2002.txt"
+    },
+    "2002-06-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6q182p82t/w9505421g/wasde-06-12-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6q182p82t/mg74qr16x/wasde-06-12-2002.pdf"
+    },
+    "2002-05-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/c534fp31z/2j62s525x/wasde-05-10-2002.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/c534fp31z/db78tc32m/wasde-05-10-2002.txt"
+    },
+    "2002-04-10": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xd07gt03x/rn301166v/wasde-04-10-2002.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/xd07gt03x/vt150j69j/wasde-04-10-2002.txt"
+    },
+    "2002-03-08": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rv042z11p/qf85ng611/wasde-03-08-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/rv042z11p/5d86p381x/wasde-03-08-2002.pdf"
+    },
+    "2002-02-08": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6m311p68v/vt150j709/wasde-02-08-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/6m311p68v/tq57nr377/wasde-02-08-2002.pdf"
+    },
+    "2002-01-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/q811kk02h/w3763716h/wasde-01-11-2002.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/q811kk02h/cf95jb648/wasde-01-11-2002.pdf"
+    },
+    "2001-12-11": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/kd17ct192/gf06g311r/wasde-12-11-2001.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/kd17ct192/jh343s71p/wasde-12-11-2001.pdf"
+    },
+    "2001-11-09": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/w95050767/z316q189b/wasde-11-09-2001.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/w95050767/5999n382b/wasde-11-09-2001.pdf"
+    },
+    "2001-10-12": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cr56n131q/3f462584n/wasde-10-12-2001.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/cr56n131q/7s75dc733/wasde-10-12-2001.pdf"
+    },
+    "2001-09-14": {
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mg74qm61x/tb09j6097/wasde-09-14-2001.pdf",
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/mg74qm61x/d217qp809/wasde-09-14-2001.txt"
+    },
+    "2001-08-10": {
+      "txt": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zc77sq427/hq37vn969/wasde-08-10-2001.txt",
+      "pdf": "https://esmis.nal.usda.gov/sites/default/release-files/3t945q76s/zc77sq427/xk81jk701/wasde-08-10-2001.pdf"
+    }
+  }
+}
